@@ -1,0 +1,24 @@
+{
+  "name": "W5-Wed-E2",
+  "version": "1.0.0",
+  "description": "Challenge 2 (02-09-2022)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/Main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoelX09/W5-Wed-E2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoelX09/W5-Wed-E2/issues"
+  },
+  "homepage": "https://github.com/JoelX09/W5-Wed-E2#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
