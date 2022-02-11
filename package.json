@@ -4,7 +4,7 @@
   "description": "Challenge 2 (02-09-2022)",
   "main": "index.js",
   "scripts": {
-    "start": "node dist/Main.js",
+    "start": "node dist/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
